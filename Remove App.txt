@@ -1,0 +1,6 @@
+1. Đăng nhập vào tài khoản Facebook của bạn trên trang web hoặc trong ứng dụng Facebook.
+2. Nhấp vào biểu tượng mũi tên xuống ở góc trên cùng bên phải của trang web hoặc trong góc trên cùng bên phải của màn hình trong ứng dụng Facebook.
+3. Chọn Cài đặt & quyền riêng tư.
+3. Trong phần Bảo mật, chọn Ứng dụng và trang web.
+4. Tìm ứng dụng Auto System và nhấp vào nó để mở các cài đặt của ứng dụng.
+5. Nhấp vào Xóa ứng dụng để xóa hoàn toàn dữ liệu của ứng dụng Auto System khỏi tài khoản Facebook của bạn.
